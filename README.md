@@ -146,7 +146,6 @@ If you have any questions or want to contribute to this project, feel free to re
 7. **Future Enhancements**: Suggestions for improving the project.
 8. **License and Contact**: Information for contributors or interested users.
 
-This `README.md` is well-structured, informative, and gives users a clear idea of how to install, use, and understand the app. Let me know if you want further modifications!![Uploading email.png…]()
 
 
 
